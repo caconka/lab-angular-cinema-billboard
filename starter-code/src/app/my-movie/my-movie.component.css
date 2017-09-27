@@ -1,0 +1,40 @@
+div.container {
+  height: 650px;
+  width: 70%;
+  margin: 0 auto;
+}
+
+div.mov {
+  display: inline-block;
+  height: 500px;
+  width: 30%;
+}
+
+div.section {
+  width: 50%;
+  margin-left: 20px;
+  display: inline-block;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+p {
+  display: inline-block;
+}
+
+h5 {
+  display: inline-block;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  padding: 5px;
+}

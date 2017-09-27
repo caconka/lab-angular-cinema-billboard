@@ -1,0 +1,17 @@
+div.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+div.card {
+  height: 450px;
+  width: 250px;
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+}
+
+img {
+  height: 80%;
+  width: 100%;
+}
